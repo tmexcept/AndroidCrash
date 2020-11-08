@@ -1,0 +1,2 @@
+include ':app', ':javacrash', ':breakpad', ':jnibug'
+rootProject.name='AndroidCrash'
